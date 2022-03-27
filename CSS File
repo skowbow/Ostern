@@ -1,0 +1,101 @@
+#Spieler1{
+  
+    width:32px;
+    height:39px;
+    
+    text-align:center;
+    
+    content:url(https://media.innogamescdn.com/com_GP_DE/Jelle-Osterevent/Osterei%201.png);
+  }
+  #Spieler2{
+    
+    width:32px;
+    height:39px;
+    
+    text-align:center;
+    margin-top:10px;
+    
+      content:url(https://media.innogamescdn.com/com_GP_DE/Jelle-Osterevent/Osterei%202.png);
+  }
+  #Spieler3{
+    
+    width:32px;
+    height:39px;
+   
+    text-align:center;
+    margin-top:10px;
+    
+    content:url(https://media.innogamescdn.com/com_GP_DE/Jelle-Osterevent/Osterei%203.png);
+  }
+  #Spieler4{
+    
+    width:32px;
+    height:39px;
+    text-align:center;
+    margin-top:10px;
+    
+    content:url(https://media.innogamescdn.com/com_GP_DE/Jelle-Osterevent/Osterei%204.png);
+  }
+  #Spieler5{
+    
+    width:32px;
+    height:39px;
+    text-align:center;
+    margin-top:10px;
+    content:url(https://media.innogamescdn.com/com_GP_DE/Jelle-Osterevent/Osterei%205.png);
+
+  }
+  #Spieler6{
+    
+    width:32px;
+    height:39px;
+    text-align:center;
+    margin-top:10px;
+    content:url(https://media.innogamescdn.com/com_GP_DE/Jelle-Osterevent/Osterei%206.png);
+     
+  }
+  #Spieler7{
+    
+    width:32px;
+    height:39px;
+    text-align:center;
+    margin-top:10px;
+    content:url(https://media.innogamescdn.com/com_GP_DE/Jelle-Osterevent/Osterei%207.png);
+     
+  }
+  #Spieler8{
+    
+    width:32px;
+    height:39px;
+    text-align:center;
+    margin-top:10px;
+    content:url(https://media.innogamescdn.com/com_GP_DE/Jelle-Osterevent/Osterei%208.png);
+     
+  }
+  #Spieler9{
+    
+    width:32px;
+    height:39px;
+    text-align:center;
+    margin-top:10px;
+    content:url(https://media.innogamescdn.com/com_GP_DE/Jelle-Osterevent/Osterei%209.png);
+     
+  }
+  #Spieler10{
+    
+    width:32px;
+    height:39px;
+    text-align:center;
+    margin-top:10px;
+    content:url(https://media.innogamescdn.com/com_GP_DE/Jelle-Osterevent/Osterei%2010.png);
+     
+  }
+  #Spieler11{
+    
+    width:32px;
+    height:39px;
+    text-align:center;
+    margin-top:10px;
+    content:url(https://media.innogamescdn.com/com_GP_DE/Jelle-Osterevent/Osterei%2011.png);
+     
+  }
