@@ -1,7 +1,11 @@
+#TAG{
+  font-size: 60px;
+  text-align:center;
+}
 #Spieler1{
   
-    width:32px;
-    height:39px;
+    width:64px;
+    height:78px;
     
     text-align:center;
     
@@ -9,8 +13,8 @@
   }
   #Spieler2{
     
-    width:32px;
-    height:39px;
+    width:64px;
+    height:78px;
     
     text-align:center;
     margin-top:10px;
@@ -19,18 +23,18 @@
   }
   #Spieler3{
     
-    width:32px;
-    height:39px;
+    width:64px;
+    height:78px;
    
     text-align:center;
     margin-top:10px;
     
-    content:url(https://media.innogamescdn.com/com_GP_DE/Jelle-Osterevent/Osterei%203.png);
+    content:url(https://media.innogamescdn.com/com_GP_DE/Jelle-Osterevent/Osterei%2053.png);
   }
   #Spieler4{
     
-    width:32px;
-    height:39px;
+    width:64px;
+    height:78px;
     text-align:center;
     margin-top:10px;
     
@@ -38,8 +42,8 @@
   }
   #Spieler5{
     
-    width:32px;
-    height:39px;
+    width:64px;
+    height:78px;
     text-align:center;
     margin-top:10px;
     content:url(https://media.innogamescdn.com/com_GP_DE/Jelle-Osterevent/Osterei%205.png);
@@ -47,8 +51,8 @@
   }
   #Spieler6{
     
-    width:32px;
-    height:39px;
+    width:64px;
+    height:78px;
     text-align:center;
     margin-top:10px;
     content:url(https://media.innogamescdn.com/com_GP_DE/Jelle-Osterevent/Osterei%206.png);
@@ -56,8 +60,8 @@
   }
   #Spieler7{
     
-    width:32px;
-    height:39px;
+    width:64px;
+    height:78px;
     text-align:center;
     margin-top:10px;
     content:url(https://media.innogamescdn.com/com_GP_DE/Jelle-Osterevent/Osterei%207.png);
@@ -65,8 +69,8 @@
   }
   #Spieler8{
     
-    width:32px;
-    height:39px;
+    width:64px;
+    height:78px;
     text-align:center;
     margin-top:10px;
     content:url(https://media.innogamescdn.com/com_GP_DE/Jelle-Osterevent/Osterei%208.png);
@@ -74,8 +78,8 @@
   }
   #Spieler9{
     
-    width:32px;
-    height:39px;
+    width:64px;
+    height:78px;
     text-align:center;
     margin-top:10px;
     content:url(https://media.innogamescdn.com/com_GP_DE/Jelle-Osterevent/Osterei%209.png);
@@ -83,8 +87,8 @@
   }
   #Spieler10{
     
-    width:32px;
-    height:39px;
+    width:64px;
+    height:78px;
     text-align:center;
     margin-top:10px;
     content:url(https://media.innogamescdn.com/com_GP_DE/Jelle-Osterevent/Osterei%2010.png);
@@ -92,10 +96,405 @@
   }
   #Spieler11{
     
-    width:32px;
-    height:39px;
+    width:64px;
+    height:78px;
     text-align:center;
     margin-top:10px;
     content:url(https://media.innogamescdn.com/com_GP_DE/Jelle-Osterevent/Osterei%2011.png);
+     
+  }
+  #Spieler12{
+    
+    width:64px;
+    height:78px;
+    
+    text-align:center;
+    margin-top:10px;
+    
+      content:url(https://media.innogamescdn.com/com_GP_DE/Jelle-Osterevent/Osterei%2012.png);
+  }
+  #Spieler13{
+    
+    width:64px;
+    height:78px;
+   
+    text-align:center;
+    margin-top:10px;
+    
+    content:url(https://media.innogamescdn.com/com_GP_DE/Jelle-Osterevent/Osterei%2013.png);
+  }
+  #Spieler14{
+    
+    width:64px;
+    height:78px;
+    text-align:center;
+    margin-top:10px;
+    
+    content:url(https://media.innogamescdn.com/com_GP_DE/Jelle-Osterevent/Osterei%2014.png);
+  }
+  #Spieler15{
+    
+    width:64px;
+    height:78px;
+    text-align:center;
+    margin-top:10px;
+    content:url(https://media.innogamescdn.com/com_GP_DE/Jelle-Osterevent/Osterei%2015.png);
+
+  }
+  #Spieler16{
+    
+    width:64px;
+    height:78px;
+    text-align:center;
+    margin-top:10px;
+    content:url(https://media.innogamescdn.com/com_GP_DE/Jelle-Osterevent/Osterei%2016.png);
+     
+  }
+  #Spieler17{
+    
+    width:64px;
+    height:78px;
+    text-align:center;
+    margin-top:10px;
+    content:url(https://media.innogamescdn.com/com_GP_DE/Jelle-Osterevent/Osterei%2017.png);
+     
+  }
+  #Spieler18{
+    
+    width:64px;
+    height:78px;
+    text-align:center;
+    margin-top:10px;
+    content:url(https://media.innogamescdn.com/com_GP_DE/Jelle-Osterevent/Osterei%2018.png);
+     
+  }
+  #Spieler19{
+    
+    width:64px;
+    height:78px;
+    text-align:center;
+    margin-top:10px;
+    content:url(https://media.innogamescdn.com/com_GP_DE/Jelle-Osterevent/Osterei%2019.png);
+     
+  }
+  #Spieler20{
+    
+    width:64px;
+    height:78px;
+    text-align:center;
+    margin-top:10px;
+    content:url(https://media.innogamescdn.com/com_GP_DE/Jelle-Osterevent/Osterei%2020.png);
+     
+  }
+  #Spieler21{
+    
+    width:64px;
+    height:78px;
+    text-align:center;
+    margin-top:10px;
+    content:url(https://media.innogamescdn.com/com_GP_DE/Jelle-Osterevent/Osterei%2021.png);
+     
+  }
+  #Spieler22{
+    
+    width:64px;
+    height:78px;
+    
+    text-align:center;
+    margin-top:10px;
+    
+      content:url(https://media.innogamescdn.com/com_GP_DE/Jelle-Osterevent/Osterei%2022.png);
+  }
+  #Spieler23{
+    
+    width:64px;
+    height:78px;
+   
+    text-align:center;
+    margin-top:10px;
+    
+    content:url(https://media.innogamescdn.com/com_GP_DE/Jelle-Osterevent/Osterei%2023.png);
+  }
+  #Spieler24{
+    
+    width:64px;
+    height:78px;
+    text-align:center;
+    margin-top:10px;
+    
+    content:url(https://media.innogamescdn.com/com_GP_DE/Jelle-Osterevent/Osterei%2024.png);
+  }
+  #Spieler25{
+    
+    width:64px;
+    height:78px;
+    text-align:center;
+    margin-top:10px;
+    content:url(https://media.innogamescdn.com/com_GP_DE/Jelle-Osterevent/Osterei%2025.png);
+
+  }
+  #Spieler26{
+    
+    width:64px;
+    height:78px;
+    text-align:center;
+    margin-top:10px;
+    content:url(https://media.innogamescdn.com/com_GP_DE/Jelle-Osterevent/Osterei%2026.png);
+     
+  }
+  #Spieler27{
+    
+    width:64px;
+    height:78px;
+    text-align:center;
+    margin-top:10px;
+    content:url(https://media.innogamescdn.com/com_GP_DE/Jelle-Osterevent/Osterei%2027.png);
+     
+  }
+  #Spieler28{
+    
+    width:64px;
+    height:78px;
+    text-align:center;
+    margin-top:10px;
+    content:url(https://media.innogamescdn.com/com_GP_DE/Jelle-Osterevent/Osterei%2028.png);
+     
+  }
+  #Spieler29{
+    
+    width:64px;
+    height:78px;
+    text-align:center;
+    margin-top:10px;
+    content:url(https://media.innogamescdn.com/com_GP_DE/Jelle-Osterevent/Osterei%2029.png);
+     
+  }
+  #Spieler30{
+    
+    width:64px;
+    height:78px;
+    text-align:center;
+    margin-top:10px;
+    content:url(https://media.innogamescdn.com/com_GP_DE/Jelle-Osterevent/Osterei%2030.png);
+     
+  }
+  #Spieler31{
+    
+    width:64px;
+    height:78px;
+    text-align:center;
+    margin-top:10px;
+    content:url(https://media.innogamescdn.com/com_GP_DE/Jelle-Osterevent/Osterei%2031.png);
+     
+  }
+  #Spieler32{
+    
+    width:64px;
+    height:78px;
+    
+    text-align:center;
+    margin-top:10px;
+    
+      content:url(https://media.innogamescdn.com/com_GP_DE/Jelle-Osterevent/Osterei%2032.png);
+  }
+  #Spieler33{
+    
+    width:64px;
+    height:78px;
+   
+    text-align:center;
+    margin-top:10px;
+    
+    content:url(https://media.innogamescdn.com/com_GP_DE/Jelle-Osterevent/Osterei%2033.png);
+  }
+  #Spieler34{
+    
+    width:64px;
+    height:78px;
+    text-align:center;
+    margin-top:10px;
+    
+    content:url(https://media.innogamescdn.com/com_GP_DE/Jelle-Osterevent/Osterei%2034.png);
+  }
+  #Spieler35{
+    
+    width:64px;
+    height:78px;
+    text-align:center;
+    margin-top:10px;
+    content:url(https://media.innogamescdn.com/com_GP_DE/Jelle-Osterevent/Osterei%2035.png);
+
+  }
+  #Spieler36{
+    
+    width:64px;
+    height:78px;
+    text-align:center;
+    margin-top:10px;
+    content:url(https://media.innogamescdn.com/com_GP_DE/Jelle-Osterevent/Osterei%2036.png);
+     
+  }
+  #Spieler37{
+    
+    width:64px;
+    height:78px;
+    text-align:center;
+    margin-top:10px;
+    content:url(https://media.innogamescdn.com/com_GP_DE/Jelle-Osterevent/Osterei%2037.png);
+     
+  }
+  #Spieler38{
+    
+    width:64px;
+    height:78px;
+    text-align:center;
+    margin-top:10px;
+    content:url(https://media.innogamescdn.com/com_GP_DE/Jelle-Osterevent/Osterei%2038.png);
+     
+  }
+  #Spieler39{
+    
+    width:64px;
+    height:78px;
+    text-align:center;
+    margin-top:10px;
+    content:url(https://media.innogamescdn.com/com_GP_DE/Jelle-Osterevent/Osterei%2039.png);
+     
+  }
+  #Spieler40{
+    
+    width:64px;
+    height:78px;
+    text-align:center;
+    margin-top:10px;
+    content:url(https://media.innogamescdn.com/com_GP_DE/Jelle-Osterevent/Osterei%2040.png);
+     
+  }
+  #Spieler41{
+    
+    width:64px;
+    height:78px;
+    text-align:center;
+    margin-top:10px;
+    content:url(https://media.innogamescdn.com/com_GP_DE/Jelle-Osterevent/Osterei%2041.png);
+     
+  }
+  #Spieler42{
+    
+    width:64px;
+    height:78px;
+    
+    text-align:center;
+    margin-top:10px;
+    
+      content:url(https://media.innogamescdn.com/com_GP_DE/Jelle-Osterevent/Osterei%2042.png);
+  }
+  #Spieler43{
+    
+    width:64px;
+    height:78px;
+   
+    text-align:center;
+    margin-top:10px;
+    
+    content:url(https://media.innogamescdn.com/com_GP_DE/Jelle-Osterevent/Osterei%2043.png);
+  }
+  #Spieler44{
+    
+    width:64px;
+    height:78px;
+    text-align:center;
+    margin-top:10px;
+    
+    content:url(https://media.innogamescdn.com/com_GP_DE/Jelle-Osterevent/Osterei%2044.png);
+  }
+  #Spieler45{
+    
+    width:64px;
+    height:78px;
+    text-align:center;
+    margin-top:10px;
+    content:url(https://media.innogamescdn.com/com_GP_DE/Jelle-Osterevent/Osterei%2045.png);
+
+  }
+  #Spieler46{
+    
+    width:64px;
+    height:78px;
+    text-align:center;
+    margin-top:10px;
+    content:url(https://media.innogamescdn.com/com_GP_DE/Jelle-Osterevent/Osterei%2046.png);
+     
+  }
+  #Spieler47{
+    
+    width:64px;
+    height:78px;
+    text-align:center;
+    margin-top:10px;
+    content:url(https://media.innogamescdn.com/com_GP_DE/Jelle-Osterevent/Osterei%2047.png);
+     
+  }
+  #Spieler48{
+    
+    width:64px;
+    height:78px;
+    text-align:center;
+    margin-top:10px;
+    content:url(https://media.innogamescdn.com/com_GP_DE/Jelle-Osterevent/Osterei%2048.png);
+     
+  }
+  #Spieler49{
+    
+    width:64px;
+    height:78px;
+    text-align:center;
+    margin-top:10px;
+    content:url(https://media.innogamescdn.com/com_GP_DE/Jelle-Osterevent/Osterei%2049.png);
+     
+  }
+  #Spieler50{
+    
+    width:64px;
+    height:78px;
+    text-align:center;
+    margin-top:10px;
+    content:url(https://media.innogamescdn.com/com_GP_DE/Jelle-Osterevent/Osterei%2050.png);
+     
+  }
+  #Spieler51{
+    
+    width:64px;
+    height:78px;
+    text-align:center;
+    margin-top:10px;
+    content:url(https://media.innogamescdn.com/com_GP_DE/Jelle-Osterevent/Osterei%2051.png);
+     
+  }
+  #Spieler52{
+    
+    width:64px;
+    height:78px;
+    text-align:center;
+    margin-top:10px;
+    content:url(https://media.innogamescdn.com/com_GP_DE/Jelle-Osterevent/Osterei%2052.png);
+     
+  }
+  #Spieler53{
+    
+    width:64px;
+    height:78px;
+    text-align:center;
+    margin-top:10px;
+    content:url(https://media.innogamescdn.com/com_GP_DE/Jelle-Osterevent/Osterei%203.png);
+     
+  }
+  #Spieler54{
+    
+    width:64px;
+    height:78px;
+    text-align:center;
+    margin-top:10px;
+    content:url(https://media.innogamescdn.com/com_GP_DE/Jelle-Osterevent/Osterei%2054.png);
      
   }
